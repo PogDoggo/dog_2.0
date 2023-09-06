@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "dog2.0",
+        "name": "dog2.0",
+        "uuid": "76ef088e-3895-11ed-a261-0242ac120003",
+        "version": [0, 0, 3],
+        "min_engine_version": [ 1, 19, 0 ]
+    },
+    "modules": [
+        {
+            "description": "dog2.0",
+            "type": "resources",
+            "uuid": "76ef0c1c-3895-11ed-a261-0242ac120015",
+            "version": [0, 0, 3]
+        }
+	],
+    "capabilities" : [
+            "raytraced"
+    ]
+}
